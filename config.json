@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecrocess",
+        "uuid": 11720133,
+        "checksum": "f2nupa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
